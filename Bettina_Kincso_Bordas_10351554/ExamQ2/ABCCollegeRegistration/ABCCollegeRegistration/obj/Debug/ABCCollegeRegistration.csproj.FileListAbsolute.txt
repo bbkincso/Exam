@@ -1,0 +1,10 @@
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\bin\Debug\ABCCollegeRegistration.exe.config
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\bin\Debug\ABCCollegeRegistration.exe
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\bin\Debug\ABCCollegeRegistration.pdb
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\obj\Debug\ABCCollegeRegistration.csprojResolveAssemblyReference.cache
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\obj\Debug\ABCCollegeRegistration.Form1.resources
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\obj\Debug\ABCCollegeRegistration.Properties.Resources.resources
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\obj\Debug\ABCCollegeRegistration.csproj.GenerateResource.Cache
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\obj\Debug\ABCCollegeRegistration.csproj.CoreCompileInputs.cache
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\obj\Debug\ABCCollegeRegistration.exe
+c:\users\kancsi\source\repos\ABCCollegeRegistration\ABCCollegeRegistration\obj\Debug\ABCCollegeRegistration.pdb
